@@ -27,8 +27,7 @@ printf("%d ",a[i]);
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/f270c915-6a85-4ca4-bff7-87415a8714d1)
-
+![image](https://github.com/user-attachments/assets/bfd5f214-1a95-48a8-951b-a18433d9010a)
 
 
 ## Result:
