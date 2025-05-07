@@ -39,7 +39,7 @@ return 0;
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/2cc91549-e7aa-4431-ac3e-17cead304549)
+![image](https://github.com/user-attachments/assets/6092ab3b-7c24-4c24-8c3b-23662be759ee)
 
 
 
